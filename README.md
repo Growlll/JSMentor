@@ -1,2 +1,2 @@
-# JSMentor.github.io
+# JSMentor
 Fist test
